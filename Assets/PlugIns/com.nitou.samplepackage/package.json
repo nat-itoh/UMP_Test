@@ -1,0 +1,13 @@
+{
+  "name": "com.nitou.samplepackage",
+  "displayName": "Sample Package",
+  "version": "0.1.0",
+  "unity": "2021.2",
+  "description": "Sample Package.",
+  "keywords": [],
+  "license": "MIT",
+  "category": "",
+  "dependencies": {
+    "com.neuecc.unirx": "https://github.com/neuecc/UniRx.git?path=Assets/Plugins/UniRx/Scripts"
+  }
+}
